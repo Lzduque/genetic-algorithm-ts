@@ -1,0 +1,25 @@
+{
+  "name": "genetic-algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/app.js",
+  "dependencies": {
+    "tslint": "^5.18.0",
+    "typescript": "^3.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "tsc && node dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lzduque/genetic-algorithm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lzduque/genetic-algorithm/issues"
+  },
+  "homepage": "https://github.com/Lzduque/genetic-algorithm#readme"
+}
